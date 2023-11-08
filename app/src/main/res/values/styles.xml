@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Herda de um tema AppCompat -->
+    <style name="Theme.ColorBoxes" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize seu tema aqui. -->
+    </style>
+
+</resources>
